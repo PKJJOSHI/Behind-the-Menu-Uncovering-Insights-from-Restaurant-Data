@@ -1,7 +1,7 @@
 
 # 🍽️ Behind the Menu: Uncovering Insights from Restaurant Data
 
-This repository contains data analysis tasks performed on a restaurant dataset as part of Cognifyz Level 2 internship. The goal is to uncover trends and insights related to restaurant ratings, cuisine preferences, locations, and chain performance.
+This repository contains data analysis tasks performed on a restaurant dataset . The goal is to uncover trends and insights related to restaurant ratings, cuisine preferences, locations, and chain performance.
 
 ---
 
