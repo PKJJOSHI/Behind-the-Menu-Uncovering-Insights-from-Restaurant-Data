@@ -78,6 +78,28 @@ pip install pandas matplotlib seaborn plotly
 Then, open the notebooks using Jupyter or VS Code.
 
 ---
+---
+
+## 📸 Sample Visualizations
+
+### ⭐ Rating Distribution
+Shows how restaurant ratings are spread across the dataset.
+
+![Rating Distribution](images/rating_distribution.png)
+
+---
+
+### 🍜 Cuisine Combination Heatmap
+Highlights the frequency and pairing patterns of different cuisines.
+
+![Cuisine Heatmap](images/cuisine_heatmap.png)
+
+---
+
+### 🗺️ Geographic Distribution of Restaurants
+Visual map showing clustering and spread of restaurants based on location.
+
+![Geographic Plot](images/geo_plot.png)
 
 ## 🙋 About Me
 
