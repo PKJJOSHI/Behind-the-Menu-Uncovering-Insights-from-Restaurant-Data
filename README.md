@@ -78,6 +78,11 @@ pip install pandas matplotlib seaborn plotly
 Then, open the notebooks using Jupyter or VS Code.
 
 ---
+### 🔄 Animated Cuisine Trends
+
+A visual animation of changing cuisine popularity over time.
+
+![Cuisine Trends GIF](images/cuisine_trends.gif)
 ---
 
 ## 📸 Sample Visualizations
