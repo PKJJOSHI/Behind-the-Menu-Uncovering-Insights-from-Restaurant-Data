@@ -57,9 +57,9 @@ Restaurant-Analysis/
 ├── dataset/
 │   └── [restaurant_data.csv]
 ├── images/
-│   ├── rating_distribution.png
-│   ├── cuisine_heatmap.png
-│   └── geo_plot.png
+│   ├── rating_distribution.gif
+│   ├── cuisine_heatmap.gif
+│   └── geo_plot.gif
 └── README.md
 ```
 
@@ -78,38 +78,33 @@ pip install pandas matplotlib seaborn plotly
 Then, open the notebooks using Jupyter or VS Code.
 
 ---
-### 🔄 Animated Cuisine Trends
-
-A visual animation of changing cuisine popularity over time.
-
-![Cuisine Trends GIF](images/cuisine_trends.gif)
 ---
 
-## 📸 Sample Visualizations
+## 🔄 Animated Visualizations
 
-### ⭐ Rating Distribution
-Shows how restaurant ratings are spread across the dataset.
+### 🍛 Cuisine Popularity Over Time
+Shows how different cuisine types trend over time in terms of popularity.
 
-![Rating Distribution](images/rating_distribution.png)
+![Cuisine Trends](images/cuisine_trends.gif)
 
 ---
 
-### 🍜 Cuisine Combination Heatmap
-Highlights the frequency and pairing patterns of different cuisines.
+### ⭐ Rating Distribution Animation
+Animated view of how restaurant ratings are distributed across samples.
 
-![Cuisine Heatmap](images/cuisine_heatmap.png)
+![Rating Distribution](images/rating_distribution.gif)
 
 ---
 
 ### 🗺️ Geographic Distribution of Restaurants
-Visual map showing clustering and spread of restaurants based on location.
+Dynamic visualization of restaurant locations across a mapped region.
 
-![Geographic Plot](images/geo_plot.png)
+![Geo Distribution](images/geo_distribution.gif)
 
 ## 🙋 About Me
 
 **Prashant Joshi** – Data Enthusiast  
-📫 [Reach me on LinkedIn](https://www.linkedin.com/) *(Link to be added)*
+📫 [Reach me on LinkedIn](https://www.linkedin.com/in/prashantjoshi2220) *(Link to be added)*
 
 ---
 
